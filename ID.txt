@@ -1,0 +1,8 @@
+admin
+administrator
+hacker
+victim
+user
+logitec
+apple
+microsoft
